@@ -12,8 +12,11 @@ networkx==2.6.3
 # Datasets
 
 [UCI] https://snap.stanford.edu/data/CollegeMsg.html  
+
 [Fb-Forum] https://snap.stanford.edu/data/CollegeMsg.html  
+
 [Enron] https://networkrepository.com/fb-forum.php  
+
 [Primary-School] https://networkrepository.com/ia-primary-school-proximity-attr.php  
 
 # Model Training
